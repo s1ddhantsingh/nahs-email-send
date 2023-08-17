@@ -1,0 +1,24 @@
+{
+  "name": "nahs-email-send",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "email dev --port 4000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@radix-ui/react-visually-hidden": "^1.0.3",
+    "@react-email/button": "0.0.10",
+    "@react-email/html": "0.0.4",
+    "@react-email/render": "^0.0.7",
+    "nodemailer": "^6.9.4",
+    "react-email": "1.9.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.2"
+  }
+}
