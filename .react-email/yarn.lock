@@ -696,20 +696,20 @@
   resolved "https://registry.npmjs.org/@react-email/html/-/html-0.0.4.tgz"
   integrity sha512-7tRYSnudYAWez+NkPWOM8yLZH7EuYFtYdiLPnzpD+pf4cdk16Gz4up531DaIX6dNBbfbyEFpQxhXZxGeJ5ZkfQ==
 
-"@react-email/render@0.0.6":
-  version "0.0.6"
-  resolved "https://registry.npmjs.org/@react-email/render/-/render-0.0.6.tgz"
-  integrity sha512-6zs7WZbd37TcPT1OmMPH/kcBpv0QSi+k3om7LyDnbdIcrbwOO/OstVwUaa/6zgvDvnq9Y2wOosbru7j5kUrW9A==
+"@react-email/render@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.npmjs.org/@react-email/render/-/render-0.0.7.tgz"
+  integrity sha512-hMMhxk6TpOcDC5qnKzXPVJoVGEwfm+U5bGOPH+MyTTlx0F02RLQygcATBKsbP7aI/mvkmBAZoFbgPIHop7ovug==
   dependencies:
     html-to-text "9.0.3"
     pretty "2.0.0"
     react "18.2.0"
     react-dom "18.2.0"
 
-"@react-email/render@0.0.7":
-  version "0.0.7"
-  resolved "https://registry.npmjs.org/@react-email/render/-/render-0.0.7.tgz"
-  integrity sha512-hMMhxk6TpOcDC5qnKzXPVJoVGEwfm+U5bGOPH+MyTTlx0F02RLQygcATBKsbP7aI/mvkmBAZoFbgPIHop7ovug==
+"@react-email/render@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.npmjs.org/@react-email/render/-/render-0.0.6.tgz"
+  integrity sha512-6zs7WZbd37TcPT1OmMPH/kcBpv0QSi+k3om7LyDnbdIcrbwOO/OstVwUaa/6zgvDvnq9Y2wOosbru7j5kUrW9A==
   dependencies:
     html-to-text "9.0.3"
     pretty "2.0.0"
@@ -2844,6 +2844,11 @@ node-releases@^2.0.6:
   version "2.0.8"
   resolved "https://registry.npmjs.org/node-releases/-/node-releases-2.0.8.tgz"
   integrity sha512-dFSmB8fFHEH/s81Xi+Y/15DQY6VHW81nXRj86EMSL3lmuTmK1e+aT4wrFCkTbm+gSwkw4KpX+rT/pMM2c1mF+A==
+
+nodemailer@^6.9.4:
+  version "6.9.4"
+  resolved "https://registry.npmjs.org/nodemailer/-/nodemailer-6.9.4.tgz"
+  integrity sha512-CXjQvrQZV4+6X5wP6ZIgdehJamI63MFoYFGGPtHudWym9qaEHDNdPzaj5bfMCvxG1vhAileSWW90q7nL0N36mA==
 
 nopt@^6.0.0:
   version "6.0.0"

@@ -45,7 +45,7 @@ export default function Email(name: string) {
         <Button
           pX={30}
           pY={15}
-          href="https://linktr.ee/your_linktree" // replace with your actual Linktree link
+          href="https://linktr.ee/mhs_nahs?utm_source=qr_code" // replace with your actual Linktree link
           style={{ background: 'linear-gradient(45deg, #ffcd00, #ff1663)', color: '#ffffff', display: 'block', margin: '30px auto', textDecoration: 'none', border: 'none', borderRadius: '10px' }}
         >
           Links
